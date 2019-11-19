@@ -20,3 +20,10 @@
 img {
     padding: 30px;
 }
+
+#app{
+    background-image: url(fight-background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
